@@ -1,0 +1,23 @@
+﻿  Simple.cpp
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(100): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(102): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(117): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(123): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(138): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(154): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(158): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(176): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(178): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(183): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(206): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(210): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(236): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(243): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(246): warning C4018: '<': signed/unsigned mismatch
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\simple.cpp(259): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+e:\cautrucdulieu_giaithuat\doan_ctdl\bool\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  All 333 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bool.vcxproj -> E:\Cautrucdulieu_giaithuat\DoAn_CTDL\Release\Bool.exe
